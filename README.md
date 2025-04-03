@@ -1,22 +1,6 @@
 # Plot Selection Scripts 🌳
 
-This repository contains a set of scripts designed to help you work with segmented trees within a plot area. The tools allow you to **select areas of interest**, **extract coordinates**, and **filter files based on boundaries**.  
-
-## Table of Contents  
-1. [Introduction](#introduction)  
-2. [Scripts Overview](#scripts-overview)  
-3. [Usage](#usage)  
-4. [Requirements](#requirements)  
-5. [License](#license)  
-
----
-
-## Introduction 📌  
-When working with segmented tree data, it is essential to filter and select specific areas of interest for further analysis. The scripts in this repository help you:  
-- Define areas of interest by modifying plot boundaries.  
-- Extract coordinates of tree centers.  
-- Filter tree data based on their location within defined boundaries.  
-- Copy selected files to a new directory.  
+This repository contains a set of scripts designed to help you work with segmented trees within a plot area. The scripts allow you to **select areas of interest**, **extract coordinates**, and **filter files based on boundaries**.  
 
 ---
 
