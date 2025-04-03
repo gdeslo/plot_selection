@@ -170,18 +170,13 @@ File not found: tree_03_fixed.las
 ---
 
 ## Requirements 📋  
-- Python 3.x  
+- This script was made and tested with Python 3.11
 - Required libraries:  
   - `geopandas`  
   - `shapely`  
   - `laspy`  
   - `numpy`  
   - `pandas`  
-
-Install required libraries with:  
-```bash
-pip install geopandas shapely laspy numpy pandas
-```
 
 ---
 
